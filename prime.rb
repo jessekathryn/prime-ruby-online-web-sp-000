@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def prime?(n)
   if n <= 1
     return false
@@ -9,6 +8,3 @@ def prime?(n)
   end
   end
 end
-=======
-
->>>>>>> 54ffe8e859fe54e5eaf939e460b08218fe75dbe7
